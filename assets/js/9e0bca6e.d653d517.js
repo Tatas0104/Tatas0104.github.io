@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[2089],{86250:function(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"ipa-2"}')}}]);

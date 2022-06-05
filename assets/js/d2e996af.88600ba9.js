@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[9153],{26966:function(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"fiqih-9"}')}}]);

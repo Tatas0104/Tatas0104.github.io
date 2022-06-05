@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[9722],{50300:function(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"matematika-6"}')}}]);

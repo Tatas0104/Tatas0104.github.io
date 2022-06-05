@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[932],{7485:function(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"akidah-akhlak-2"}')}}]);

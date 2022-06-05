@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[3974],{90289:function(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"al-quran-hadis-5"}')}}]);
